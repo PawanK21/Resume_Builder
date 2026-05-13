@@ -1,0 +1,17 @@
+.resume-section {
+  margin-bottom: 20px;
+}
+
+.resume-section-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.resume-divider {
+  border-bottom: 2px solid;
+  padding-bottom: 4px;
+  margin-bottom: 8px;
+}
